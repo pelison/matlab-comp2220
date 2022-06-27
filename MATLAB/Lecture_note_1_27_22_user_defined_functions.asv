@@ -1,0 +1,5 @@
+clc; clear;
+sum_i(5)
+%fprintf--- formatted outputs, input is a format string
+
+fprintf('what will this do?','ba')
